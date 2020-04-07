@@ -35,18 +35,46 @@ Step 2: Read this post and watch this video to start building an understanding o
       
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know?
+   
+> My biggest strength is I am very empathetic to other people.  My ability to connect with people and be responsive and supportive...it gives me so much energy.
+   
    * How do you work best?
+   
+> I work my best when I'm in a space that is my own.  I enjoy being part of a team and holding myself to a standard where I complete what I am assigned.
+
    * What is your greatest area of improvement?
+   
+> There are some self-management aspects that I want to address for myself.  Making sure that I take the time to recognize what I am feeling and how to navigate and negotiate for myself.  
+   
    * How do you hope to maximize your strengths for your new career in software development?
+
+> I plan on being a team manager for a prominent software company and leading the most diverse, successful, and creative team in the company.
+
    * How might knowing about your strengths and working preferences benefit you as a software developer? 
+
+> It can help me identify working cultures that would value me and my experience.  It can help me be clear about what I need to negotiate when it comes to salary, benefits, and working conditions so that I can maximize my growth and progress.
    
  Step 4: Read Ta-Nehisi Coates' article, ["Getting Better at Difficult Things"](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/) and watch Kathy Sierra's keynote from [Fluent Conf 2015](https://www.youtube.com/watch?v=FKTxC9pl-WM)
- 
+
+[ ] Ta-Nehisi Coates' article
+[ ] Kathy Sierra's keynote
+
  Step 5: Please respond to the following questions in a reflection (4-6 sentences):
   * What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
+
+> My answer.
+
   * How do Sierra's and Coate's material relate to your current process for learning?
+
+> My answer.
+
   * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
+  
+> My answer. 
+
   * How will you prepare yourself to be at your best with your learning process while at Turing?
+
+> 
  
 ## **Capstone submission directions:**
 In a gist, please:
